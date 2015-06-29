@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gohealth.abonurse</string>
+				<string>com.gjk365.abonurse</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
