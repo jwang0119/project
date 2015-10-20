@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gjk365.enterpise.abo</string>
+				<string>com.gjk365.enterprise.abo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
